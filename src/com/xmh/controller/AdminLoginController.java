@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.xmh.entity.Admin;
 import com.xmh.service.UserService;
 
-
+//1
 @Controller
 public class AdminLoginController {
 	
